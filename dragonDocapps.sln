@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dragonDocapps", "dragonDocapps.csproj", "{E37AB3F3-F99A-4F6E-A5EF-0FBF63433C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E37AB3F3-F99A-4F6E-A5EF-0FBF63433C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37AB3F3-F99A-4F6E-A5EF-0FBF63433C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37AB3F3-F99A-4F6E-A5EF-0FBF63433C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37AB3F3-F99A-4F6E-A5EF-0FBF63433C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06E8C948-2FAA-423C-8DC5-A996C794AFE7}
+	EndGlobalSection
+EndGlobal
